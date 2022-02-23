@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the more effectual suppressing of prophane cursing and swearing</title>
+            <title>Public General Acts. 1695. 7 Wil.III.c.9.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45986</idno>
+            <idno type="STC">Wing I319</idno>
+            <idno type="STC">ESTC R216039</idno>
+            <idno type="EEBO-CITATION">99827792</idno>
+            <idno type="PROQUEST">99827792</idno>
+            <idno type="VID">32215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the more effectual suppressing of prophane cursing and swearing</title>
+                  <title>Public General Acts. 1695. 7 Wil.III.c.9.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook, printer to the Kings Most Excellent Majesty, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Enacted: Public General Acts, 1695. 7 Wil.III.c.9.</note>
+                  <note>Running title reads: Anno regni septimo Gulielmi Tertii.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Swearing --  Law and legislation --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32215:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:32215:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>AN ACT For the more Effectual Suppreſſing of Prophane Curſing and Swearing.</p>
+            <figure>
+               <figDesc>W R
+HONI SOIT QVI MAL Y PENSE
+IE MEIN TIENDRAI</figDesc>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:32215:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="3" facs="tcp:32215:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>An Act for the more Effectual Suppreſſing of Pro<g ref="char:EOLhyphen"/>phane Curſing and Swearing. CHAP. IX.</head>
+            <p>WHereas it is found by Experience that An Act of Parliament made in the Tenth and Eleventh Years of the Reign of King <hi>CHARLES the Firſt,</hi> Intituled, <hi>An Act to prevent and Reform prophane Swearing and Curſing,</hi> hath pro<g ref="char:EOLhyphen"/>ved Ineffectual to the Suppreſſing of thoſe De<g ref="char:EOLhyphen"/>teſtable Sins, by Reaſon of ſome Deficiency in the ſaid A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Be it therefore Enacted by the Kings Moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral, and Commons in this preſent Parliament Aſſembled, and by Authority of the ſame, That if any Perſon or Perſons ſhall after the Fifth Day of <hi>November,</hi> in this preſent Year of our Lord, One Thouſand Six Hundred Ninety and Five, Prophanely Swear and Curſe in the preſence or hearing of any Iuſtice of Peace of the County, Diviſion, or of the May<g ref="char:EOLhyphen"/>or, or other Head Officer or Iuſtice of Peace for any City or Town Corporate where ſuch Offence is or ſhall be Committed, or that ſhall be thereof Convicted by the Oath of one Wit<g ref="char:EOLhyphen"/>neſs, or by the Confeſſion of the Party Of<g ref="char:EOLhyphen"/>fending before any Iuſtice of the Peace of the County, or Mayor, or Bayliff or other Chief Officer or Iuſtice of the Peace of ſuch City or Town Corporate where the ſaid Offence ſhall
+<pb n="4" facs="tcp:32215:3"/>
+               <!-- PDF PAGE 27 -->
+be Committed, That then for every ſuch Of<g ref="char:EOLhyphen"/>fence the Party ſo Offending ſhall Forfeit and pay to the uſe of the Poor of the Pariſh where ſuch Offence or Offences ſhall be Committed the Reſpe<g ref="char:EOLhyphen"/>ctive Summs herein after mentioned, that is to ſay, Every Servant, Day Labourer, Common Sol<g ref="char:EOLhyphen"/>dier and Common Seaman One Shilling, and every other Perſon Two Shillings; And in Caſe any of the Perſons aforeſaid ſhall after Conviction Offend a ſecond time, ſuch Perſons ſhall Forfeit and pay Double; and if a third time Treble the Summ Reſpectively by him or her to be paid for the firſt Offence.</p>
+            <p>And it is hereby further Enacted, That upon Neglect or Refuſal of Payment of the ſaid Forfei<g ref="char:EOLhyphen"/>ture, any Iuſtice of Peace of the County, or Mayor, or other Head Officer, or Iuſtice of Peace of any City or Town Corporate where the ſaid Offence ſhall be Committed, ſhall and are hereby Authorized and Required to Direct and ſend his Warrant to the Conſtable, Ty<g ref="char:EOLhyphen"/>thing-Man, Church-Warden or Overſeér of the Poor of the Pariſh where the Offence ſhall be Committed, or where the Offender ſhall Inha<g ref="char:EOLhyphen"/>bit, thereby Commanding them, or ſome one or more of them, to Levy by Diſtreſs, and Sale of the Goods of the Offender, the Summ ſo For<g ref="char:EOLhyphen"/>feited for the uſe of the Poor of the Pariſh, as aforeſaid; And in Caſe no ſuch Diſtreſs can be had, then every ſuch Offender being above the Age of Sixteén Years ſhall by Warrant un<g ref="char:EOLhyphen"/>der the Hand and Seal of the ſaid Iuſtice of Peace, or other Officer, as aforeſaid, be Pub<g ref="char:EOLhyphen"/>lickly ſet in the Stocks for the ſpace of One Hour for every ſingle Offence, and for any Number of Offences whereof he ſhall be Con<g ref="char:EOLhyphen"/>victed
+<pb n="5" facs="tcp:32215:3"/>
+               <!-- PDF PAGE 27 -->
+at one and the ſame time then Two Hours; And if the Party Offending be under the Age of Sixteén Years, and ſhall not forthwith pay the ſaid Forfeitures, then he or ſhe ſhall by Warrant, as aforeſaid, be Whipt by the Conſta<g ref="char:EOLhyphen"/>ble, or by the Parent, Guardian or Maſter of ſuch Offender, in the preſence of the Conſtable.</p>
+            <p>And be it further Enacted, That if any Iuſtice of the Peace or Chief Magiſtrate ſhall willfully and willingly omit the performance of his Duty in the Execution of this Act he ſhall Forfeit the Summ of Five Pounds; the one Moyety to the uſe of the Informer, to be Recovered by Action, Suit, Bill or Plaint, in any of His Majeſties Courts, wherein no Eſſoyn, Protection or Wager of Law ſhall be allowed, nor any more then one Imparlance granted.</p>
+            <p>And it is hereby further Enacted, That if any Action or Suit ſhall be Commenced or brought a<g ref="char:EOLhyphen"/>gainſt any Iuſtice of Peace, Conſtable, or other Officer or Perſon whatſoever for Doing, or Cau<g ref="char:EOLhyphen"/>ſing to be Done any thing in purſuance of this Act concerning the ſaid Offences, the Defendant in ſuch Action may plead the General Iſſue, and give the Special Matter in Evidence; And if upon ſuch Action Verdict be given for the Defendant, or the Plantiff become Non-Suit, or Diſcontinue his Action, then the Defendant ſhall have treble Coſts.</p>
+            <p>Provided always, And it is hereby Enacted, That no Perſon ſhall be Proſecuted or Troubled for any Offence againſt this Statute unleſs the ſame be proved or proſecuted within Ten Days next after the Offence Committed.</p>
+            <p>And it is further Enacted by the Authority aforeſaid, That this Act ſhall be Publickly Read Four Times in the Year in all Pariſh Churches
+<pb n="6" facs="tcp:32215:4"/>
+               <!-- PDF PAGE 28 -->
+and all Publick Chappels, by the Parſon, Vi<g ref="char:EOLhyphen"/>car or Curate of the Reſpective Pariſhes or Chap<g ref="char:EOLhyphen"/>pels immediately after Morning Prayers on four ſeveral Sundays, that is to ſay, The Sun<g ref="char:EOLhyphen"/>day next after the Fifth Day of <hi>November,</hi> in this preſent Year of Our Lord, One Thouſand Six Hundred Ninety Five; The Fifth Day of <hi>February</hi> following; The Fifth Day of <hi>May,</hi> which will be in the Year of Our Lord, One Thouſand Six Hundred Ninety Six; And the Fifth Day of <hi>Auguſt</hi> following, under the pain of Twenty Shillings for every ſuch O<g ref="char:EOLhyphen"/>miſſion or Neglect.</p>
+            <p>And be it further Enacted by Authority aforeſaid, That the Iuſtices of Peace, Mayor, or other Head Officer ſhall Regiſter in a Book to be kept for that purpoſe all the Convictions made before him upon this Act, and the Time of Making thereof, and for what Offence; And ſhall Cer<g ref="char:EOLhyphen"/>tifie the ſame to the next General-Quarter-Seſ<g ref="char:EOLhyphen"/>ſions of the Peace for the ſaid County, or place where the Offences are Committed, to be there kept upon Record by the Reſpective Clerks of the Peace, to be ſeén without Feé or Rewards.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32215:4"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </body>
+   </text>
+</TEI>
